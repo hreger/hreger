@@ -7,10 +7,13 @@
 - 👀 I’m interested in **AI-driven applications**, **secure systems**, and **creative problem-solving**
 - 🌱 I’m currently learning **MLOps tools**, **Explainable AI (XAI)**, and **full-stack development**
 - 💞️ I’m looking to collaborate on **ML, Cybersecurity, and DevTools**
-- 📫 Reach me at:  
-  [![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeevpradeep.p2022@vitstudent.ac.in)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-sanjeev-pradeep)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hreger)
+- 📫 Reach me at:
+
+[![Email](https://img.shields.io/badge/Email-%23117ACA.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeevpradeep.p2022@vitstudent.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-sanjeev-pradeep)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hreger)
+[![Resume](https://img.shields.io/badge/Resume-%23666666.svg?style=for-the-badge&logo=readme&logoColor=white)](https://p-sanjeev-pradeep-resume.tiiny.site/)
+
 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I write code like I solve puzzles—with way too much coffee and dramatic music. ☕🎧
