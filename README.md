@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sanjeev Pradeep (@hreger)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=AI+enthusiast+%7C+Secure+Systems+Builder;Full-Stack+Developer+%7C+CS+Undergrad+at+VIT;Let's+build+something+cool+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=700&lines=AI+enthusiast+%7C+Secure+Systems+Builder;Full-Stack+Developer+%7C+CS+Undergrad+at+VIT;Let's+build+something+cool+!" alt="Typing SVG" />
 </p>
 
 ---
