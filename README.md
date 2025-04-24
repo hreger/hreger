@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sanjeev Pradeep (@hreger)</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=700&lines=AI+enthusiast+%7C+Secure+Systems+Builder;Full-Stack+Developer+%7C+CS+Undergrad+at+VIT;Let's+build+something+cool+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=700&lines=AI+enthusiast+%7C+Secure+Systems+Builder;Software+Developer+%7C+CS+Undergrad+at+VIT;Let's+build+something+cool+!" alt="Typing SVG" />
 </div>
 ---
 
@@ -13,7 +13,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hreger)
 
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I built a **stock prediction platform** and a **Java-based secure file vault**—both open source!  
+- ⚡ Fun fact: I write code like I solve puzzles—with way too much coffee and dramatic music. ☕🎧
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 **1st place @ EnergyThon Hackathon (VIT)** – A* path optimization for smart waste collection  
+- 🥇 **1st place @ EnergyThon Hackathon (Gravitas - VIT)** – A* path optimization for smart waste collection  
 - 📊 Reduced collection time by 30%, improved fuel efficiency by 25%, 85% accurate waste classification  
 
 ---
