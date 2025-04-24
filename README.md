@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sanjeev Pradeep (@hreger)</h1>
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=700&lines=AI+enthusiast+%7C+Secure+Systems+Builder;Full-Stack+Developer+%7C+CS+Undergrad+at+VIT;Let's+build+something+cool+!" alt="Typing SVG" />
-</p>
-
+</div>
 ---
 
 - 👀 I’m interested in **AI-driven applications**, **secure systems**, and **creative problem-solving**
@@ -53,9 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hreger&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hreger&theme=github-dark-blue" />
-</p>
-
+  <img src="https://streak-stats.demolab.com?user=hreger&theme=github-dark-blue" />
 <!---
 hreger/hreger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
