@@ -28,10 +28,11 @@
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Used |
-|--------|-------------|-----------|
+|---------|-------------|-----------|
 | [**StockIntel**](https://github.com/hreger/stockintel) | 📈 AI-powered stock analytics platform with LSTM, ARIMA, and XAI | Python, LSTM, ARIMA, Streamlit |
 | [**Secure File Vault**](https://github.com/hreger/secure-file-vault) | 🔐 JavaFX-based encrypted vault with AES-256 & MFA | Java, JavaFX, SQLite, AES |
-| [**Python Quiz App**](https://github.com/hreger/python-quiz-application) | 🧠 Tkinter GUI quiz app w/ leaderboard & multiplayer mode | Python, Tkinter, TOML |
+| [**Python Quiz App**](https://github.com/hreger/python-quiz-application) | 🧠 Interactive Tkinter GUI quiz app w/ leaderboard & multiplayer mode | Python, Tkinter, TOML |
+| [**MedExplain**](https://github.com/hreger/MedExplain) | 🧠💉 AI-driven medical diagnosis support tool using XAI techniques for transparent disease diagnosis | Python, XAI, MLops, Streamlit, TensorFlow |
 
 ---
 
